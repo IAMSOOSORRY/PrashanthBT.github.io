@@ -39,7 +39,6 @@ Seeking an entry-level cybersecurity role to apply technical expertise in networ
 - Networking and System Administration
 - TCP/IP, DNS, DHCP, IDS/IPS
 - Log Analysis
-- Malware Analysis
 ---
 
 ## Experience
