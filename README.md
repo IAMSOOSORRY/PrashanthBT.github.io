@@ -73,26 +73,3 @@ Seeking an entry-level cybersecurity role to apply technical expertise in networ
 
 ## Declaration
 "I affirm all information provided is accurate to my knowledge and belief."
-
----
-
-## GitHub Repository
-- **Repository Name:** [PrashanthBT.github.io](https://github.com/PrashanthBT/PrashanthBT.github.io)
-- **Description:** GitHub portfolio showcasing projects, skills, and contributions in cybersecurity.
-
----
-
-## Portfolio Content
-- Include project repositories demonstrating:
-  - VAPT projects
-  - Penetration testing reports
-  - Security tool configurations (firewalls, SIEM)
-  - Incident response simulations
-
----
-
-## Additional Tips
-- Use Markdown for formatting your README.md file.
-- Link to your LinkedIn profile and other relevant social media.
-- Regularly update your portfolio with new projects and skills.
-
