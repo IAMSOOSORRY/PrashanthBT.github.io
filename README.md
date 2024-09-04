@@ -30,19 +30,16 @@ Seeking an entry-level cybersecurity role to apply technical expertise in networ
 
 ## Skills
 - Security Information and Event Management (SIEM)
-- Threat Detection and Response
+- Threat Detection
 - Vulnerability Assessment and Penetration Testing (VAPT)
-- Linux and Windows Administration
+- Linux and Windows
 - OSI Model
-- Firewall Configuration
+- Firewall
 - Incident Response
 - Networking and System Administration
 - TCP/IP, DNS, DHCP, IDS/IPS
-- Network Configuration
 - Log Analysis
 - Malware Analysis
-- Operating Systems
-
 ---
 
 ## Experience
